@@ -1,10 +1,12 @@
-package com.example.android.topquiz;
+package com.example.android.topquiz.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
+
+import com.example.android.topquiz.R;
 
 public class GameActivity extends AppCompatActivity {
     Button mGameButton1;

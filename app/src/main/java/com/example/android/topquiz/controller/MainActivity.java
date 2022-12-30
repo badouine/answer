@@ -1,4 +1,4 @@
-package com.example.android.topquiz;
+package com.example.android.topquiz.controller;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -10,6 +10,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.android.topquiz.R;
 
 public class MainActivity extends AppCompatActivity {
     private TextView mGreetingTextView;
